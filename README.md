@@ -12,6 +12,7 @@ Proyek ini bertujuan untuk mengklasifikasikan kalimat-kalimat berdasarkan emosin
 - sadness 
 - suprise
 
+Sumber Dataset [Kaggle](https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp)
 ## Evaluasi Model:
 
 Dalam proses ini, kami menggunakan model klasifikasi dengan Teknik Pemrosesan Teks dan Algoritma Random Forest untuk membuat prediksi emosi dari kalimat yang diberikan. Kami juga melakukan evaluasi performa model menggunakan sejumlah metrik.
@@ -19,5 +20,7 @@ Dalam proses ini, kami menggunakan model klasifikasi dengan Teknik Pemrosesan Te
 **Hasil Prediksi Contoh:**
 
 ![Contoh Hasil Prediksi](tes_model.png)
+
+
 
 
